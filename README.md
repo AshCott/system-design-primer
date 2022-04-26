@@ -271,7 +271,7 @@ Discuss potential solutions and trade-offs.  Everything is a trade-off.  Address
 
 You might be asked to do some estimates by hand.  Refer to the [Appendix](#appendix) for the following resources:
 
-* [Use back of the envelope calculations](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
+* [Use back of the envelope calculations](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html) | [Archive](https://web.archive.org/web/20220426050918/http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
 * [Powers of two table](#powers-of-two-table)
 * [Latency numbers every programmer should know](#latency-numbers-every-programmer-should-know)
 
@@ -279,9 +279,9 @@ You might be asked to do some estimates by hand.  Refer to the [Appendix](#appen
 
 Check out the following links to get a better idea of what to expect:
 
-* [How to ace a systems design interview](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
-* [The system design interview](http://www.hiredintech.com/system-design)
-* [Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
+* [How to ace a systems design interview](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/) | [Archive](https://web.archive.org/web/20210505130322/https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
+* [The system design interview](http://www.hiredintech.com/system-design) | [Archive](https://web.archive.org/web/20220417225144/https://www.hiredintech.com/system-design)
+* [Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70) | [Archive](https://web.archive.org/web/20220417235038/https://www.youtube.com/watch?v=ZgdS0EUmn70)
 * [System design template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
 
 ## System design interview questions with solutions
@@ -389,13 +389,13 @@ First, you'll need a basic understanding of common principles, learning about wh
 
 ### Step 2: Review the scalability article
 
-[Scalability](http://www.lecloud.net/tagged/scalability/chrono)
+[Scalability](http://www.lecloud.net/tagged/scalability/chrono) | [Archive](https://web.archive.org/web/20220217071827/http://www.lecloud.net/tagged/scalability/chrono)
 
 * Topics covered:
-    * [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
-    * [Databases](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
-    * [Caches](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
-    * [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
+    * [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones) | [Archive](https://web.archive.org/web/20220331063644/https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+    * [Databases](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database) | [Archive](https://web.archive.org/web/20220217072121/https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
+    * [Caches](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) | [Archive](https://web.archive.org/web/20220308125603/https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+    * [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism) | [Archive](https://web.archive.org/web/20220217071927/https://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
 
 ### Next steps
 
@@ -420,7 +420,7 @@ Another way to look at performance vs scalability:
 
 ### Source(s) and further reading
 
-* [A word on scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
+* [A word on scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html) | [Archive](https://web.archive.org/web/20220217073446/https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
 * [Scalability, availability, stability, patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
 
 ## Latency vs throughput
@@ -433,7 +433,7 @@ Generally, you should aim for **maximal throughput** with **acceptable latency**
 
 ### Source(s) and further reading
 
-* [Understanding latency vs throughput](https://community.cadence.com/cadence_blogs_8/b/sd/archive/2010/09/13/understanding-latency-vs-throughput)
+* [Understanding latency vs throughput](https://community.cadence.com/cadence_blogs_8/b/sd/archive/2010/09/13/understanding-latency-vs-throughput) | [Archive](https://web.archive.org/web/20220417225608/https://community.cadence.com/cadence_blogs_8/b/sd/posts/understanding-latency-vs-throughput)
 
 ## Availability vs consistency
 
@@ -465,8 +465,8 @@ AP is a good choice if the business needs allow for [eventual consistency](#even
 
 ### Source(s) and further reading
 
-* [CAP theorem revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
-* [A plain english introduction to CAP theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
+* [CAP theorem revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/) | [Archive](https://web.archive.org/web/20220423183232/https://robertgreiner.com/cap-theorem-revisited)
+* [A plain english introduction to CAP theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem) | [Archive](https://web.archive.org/web/20220421213746/http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 * [CAP FAQ](https://github.com/henryr/cap-faq)
 * [The CAP theorem](https://www.youtube.com/watch?v=k-Yaq8AHlFA)
 
@@ -494,7 +494,7 @@ This approach is seen in file systems and RDBMSes.  Strong consistency works wel
 
 ### Source(s) and further reading
 
-* [Transactions across data centers](http://snarfed.org/transactions_across_datacenters_io.html)
+* [Transactions across data centers](http://snarfed.org/transactions_across_datacenters_io.html) ([Archive](https://web.archive.org/web/20220318231147/https://snarfed.org/transactions_across_datacenters_io.html))
 
 ## Availability patterns
 
@@ -597,7 +597,7 @@ DNS is hierarchical, with a few authoritative servers at the top level.  Your ro
 
 Services such as [CloudFlare](https://www.cloudflare.com/dns/) and [Route 53](https://aws.amazon.com/route53/) provide managed DNS services.  Some DNS services can route traffic through various methods:
 
-* [Weighted round robin](https://www.jscape.com/blog/load-balancing-algorithms)
+* [Weighted round robin](https://www.jscape.com/blog/load-balancing-algorithms) ([Archive](https://web.archive.org/web/20220426102535/https://www.jscape.com/blog/load-balancing-algorithms))
     * Prevent traffic from going to servers under maintenance
     * Balance between varying cluster sizes
     * A/B testing
@@ -607,14 +607,14 @@ Services such as [CloudFlare](https://www.cloudflare.com/dns/) and [Route 53](ht
 ### Disadvantage(s): DNS
 
 * Accessing a DNS server introduces a slight delay, although mitigated by caching described above.
-* DNS server management could be complex and is generally managed by [governments, ISPs, and large companies](http://superuser.com/questions/472695/who-controls-the-dns-servers/472729).
-* DNS services have recently come under [DDoS attack](http://dyn.com/blog/dyn-analysis-summary-of-friday-october-21-attack/), preventing users from accessing websites such as Twitter without knowing Twitter's IP address(es).
+* DNS server management could be complex and is generally managed by [governments, ISPs, and large companies](http://superuser.com/questions/472695/who-controls-the-dns-servers/472729) ([Archive](https://web.archive.org/web/20220426102748/https://superuser.com/questions/472695/who-controls-the-dns-servers/472729)).
+* DNS services have recently come under [DDoS attack](http://dyn.com/blog/dyn-analysis-summary-of-friday-october-21-attack/) ([Archive](https://web.archive.org/web/20200108171749/https://dyn.com/blog/dyn-analysis-summary-of-friday-october-21-attack/)), preventing users from accessing websites such as Twitter without knowing Twitter's IP address(es).
 
 ### Source(s) and further reading
 
-* [DNS architecture](https://technet.microsoft.com/en-us/library/dd197427(v=ws.10).aspx)
+* [DNS architecture](https://technet.microsoft.com/en-us/library/dd197427(v=ws.10).aspx) ([Archive](https://web.archive.org/web/20211229085504/https://technet.microsoft.com/en-us/library/dd197427(v=ws.10).aspx))
 * [Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System)
-* [DNS articles](https://support.dnsimple.com/categories/dns/)
+* [DNS articles](https://support.dnsimple.com/categories/dns/) ([Archive](https://web.archive.org/web/20220217040249/https://support.dnsimple.com/categories/dns/))
 
 ## Content delivery network
 
@@ -653,8 +653,8 @@ Sites with heavy traffic work well with pull CDNs, as traffic is spread out more
 
 ### Source(s) and further reading
 
-* [Globally distributed content delivery](https://figshare.com/articles/Globally_distributed_content_delivery/6605972)
-* [The differences between push and pull CDNs](http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/)
+* [Globally distributed content delivery](https://figshare.com/articles/Globally_distributed_content_delivery/6605972) ([Archive](https://web.archive.org/web/20220426103823/https://s3-eu-west-1.amazonaws.com/pstorage-cmu-348901238291901/12096455/file.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI266R7V6O36O5JUA/20220426/eu-west-1/s3/aws4_request&X-Amz-Date=20220426T103823Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=2842096ed82b9a8818f87d57bb9664f98b8b7431a562726f80d5de3bd38b0fe3))
+* [The differences between push and pull CDNs](http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/) ([Archive](https://web.archive.org/web/20220418133137/http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/))
 * [Wikipedia](https://en.wikipedia.org/wiki/Content_delivery_network)
 
 ## Load balancer
@@ -686,7 +686,7 @@ Load balancers can route traffic based on various metrics, including:
 * Random
 * Least loaded
 * Session/cookies
-* [Round robin or weighted round robin](https://www.g33kinfo.com/info/round-robin-vs-weighted-round-robin-lb)
+* [Round robin or weighted round robin](https://www.g33kinfo.com/info/round-robin-vs-weighted-round-robin-lb) ([Archive](https://web.archive.org/web/20220123214432/https://g33kinfo.com/info/round-robin-vs-weighted-round-robin-lb/))
 * [Layer 4](#layer-4-load-balancing)
 * [Layer 7](#layer-7-load-balancing)
 
@@ -719,13 +719,13 @@ Load balancers can also help with horizontal scaling, improving performance and 
 
 ### Source(s) and further reading
 
-* [NGINX architecture](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
-* [HAProxy architecture guide](http://www.haproxy.org/download/1.2/doc/architecture.txt)
-* [Scalability](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+* [NGINX architecture](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/) ([Archive](https://web.archive.org/web/20220406020001/https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale))
+* [HAProxy architecture guide](http://www.haproxy.org/download/1.2/doc/architecture.txt) ([Archive](https://web.archive.org/web/20211229085352/http://www.haproxy.org/download/1.2/doc/architecture.txt))
+* [Scalability](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones) ([Archive](https://web.archive.org/web/20220331063644/https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones))
 * [Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing))
-* [Layer 4 load balancing](https://www.nginx.com/resources/glossary/layer-4-load-balancing/)
-* [Layer 7 load balancing](https://www.nginx.com/resources/glossary/layer-7-load-balancing/)
-* [ELB listener config](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-listener-config.html)
+* [Layer 4 load balancing](https://www.nginx.com/resources/glossary/layer-4-load-balancing/) ([Archive](https://web.archive.org/web/20220321191435/https://www.nginx.com/resources/glossary/layer-4-load-balancing/))
+* [Layer 7 load balancing](https://www.nginx.com/resources/glossary/layer-7-load-balancing/) ([Archive](https://web.archive.org/web/20220321191437/https://www.nginx.com/resources/glossary/layer-7-load-balancing/))
+* [ELB listener config](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-listener-config.html) ([Archive](URL))
 
 ## Reverse proxy (web server)
 
@@ -765,9 +765,9 @@ Additional benefits include:
 
 ### Source(s) and further reading
 
-* [Reverse proxy vs load balancer](https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/)
-* [NGINX architecture](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
-* [HAProxy architecture guide](http://www.haproxy.org/download/1.2/doc/architecture.txt)
+* [Reverse proxy vs load balancer](https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/) ([Archive](https://web.archive.org/web/20220125165248/https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/))
+* [NGINX architecture](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/) ([Archive](https://web.archive.org/web/20220406020001/https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale))
+* [HAProxy architecture guide](http://www.haproxy.org/download/1.2/doc/architecture.txt) ([Archive](https://web.archive.org/web/20211229085352/http://www.haproxy.org/download/1.2/doc/architecture.txt))
 * [Wikipedia](https://en.wikipedia.org/wiki/Reverse_proxy)
 
 ## Application layer
@@ -799,11 +799,11 @@ Systems such as [Consul](https://www.consul.io/docs/index.html), [Etcd](https://
 
 ### Source(s) and further reading
 
-* [Intro to architecting systems for scale](http://lethain.com/introduction-to-architecting-systems-for-scale)
-* [Crack the system design interview](http://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview)
+* [Intro to architecting systems for scale](http://lethain.com/introduction-to-architecting-systems-for-scale) ([Archive](https://web.archive.org/web/20220417130737/https://lethain.com/introduction-to-architecting-systems-for-scale/))
+* [Crack the system design interview](http://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview) ([Archive](https://web.archive.org/web/20220417225439/https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview))
 * [Service oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 * [Introduction to Zookeeper](http://www.slideshare.net/sauravhaloi/introduction-to-apache-zookeeper)
-* [Here's what you need to know about building microservices](https://cloudncode.wordpress.com/2016/07/22/msa-getting-started/)
+* [Here's what you need to know about building microservices](https://cloudncode.wordpress.com/2016/07/22/msa-getting-started/) ([Archive](https://web.archive.org/web/20220423051559/http://cloudncode.blog/2016/07/22/msa-getting-started/))
 
 ## Database
 
@@ -916,9 +916,9 @@ Common ways to shard a table of users is either through the user's last name ini
 
 ##### Source(s) and further reading: sharding
 
-* [The coming of the shard](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html)
+* [The coming of the shard](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html) ([Archive](https://web.archive.org/web/20220417223617/http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html))
 * [Shard database architecture](https://en.wikipedia.org/wiki/Shard_(database_architecture))
-* [Consistent hashing](http://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html)
+* [Consistent hashing](http://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html) ([Archive](https://web.archive.org/web/20220217071612/https://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html))
 
 #### Denormalization
 
@@ -983,10 +983,10 @@ Benchmarking and profiling might point you to the following optimizations.
 
 ##### Source(s) and further reading: SQL tuning
 
-* [Tips for optimizing MySQL queries](http://aiddroid.com/10-tips-optimizing-mysql-queries-dont-suck/)
-* [Is there a good reason i see VARCHAR(255) used so often?](http://stackoverflow.com/questions/1217466/is-there-a-good-reason-i-see-varchar255-used-so-often-as-opposed-to-another-l)
-* [How do null values affect performance?](http://stackoverflow.com/questions/1017239/how-do-null-values-affect-performance-in-a-database-search)
-* [Slow query log](http://dev.mysql.com/doc/refman/5.7/en/slow-query-log.html)
+* [Tips for optimizing MySQL queries](http://aiddroid.com/10-tips-optimizing-mysql-queries-dont-suck/) ([Archive](https://web.archive.org/web/20220217101137/http://aiddroid.com/10-tips-optimizing-mysql-queries-dont-suck/))
+* [Is there a good reason i see VARCHAR(255) used so often?](http://stackoverflow.com/questions/1217466/is-there-a-good-reason-i-see-varchar255-used-so-often-as-opposed-to-another-l) ([Archive](https://web.archive.org/web/20220320105334/https://stackoverflow.com/questions/1217466/is-there-a-good-reason-i-see-varchar255-used-so-often-as-opposed-to-another-l))
+* [How do null values affect performance?](http://stackoverflow.com/questions/1017239/how-do-null-values-affect-performance-in-a-database-search) ([Archive](https://web.archive.org/web/20220329141450/https://stackoverflow.com/questions/1017239/how-do-null-values-affect-performance-in-a-database-search))
+* [Slow query log](http://dev.mysql.com/doc/refman/5.7/en/slow-query-log.html) ([Archive](https://web.archive.org/web/20220318071109/https://dev.mysql.com/doc/refman/5.7/en/slow-query-log.html))
 
 ### NoSQL
 
@@ -1013,9 +1013,9 @@ A key-value store is the basis for more complex systems such as a document store
 ##### Source(s) and further reading: key-value store
 
 * [Key-value database](https://en.wikipedia.org/wiki/Key-value_database)
-* [Disadvantages of key-value stores](http://stackoverflow.com/questions/4056093/what-are-the-disadvantages-of-using-a-key-value-table-over-nullable-columns-or)
-* [Redis architecture](http://qnimate.com/overview-of-redis-architecture/)
-* [Memcached architecture](https://adayinthelifeof.nl/2011/02/06/memcache-internals/)
+* [Disadvantages of key-value stores](http://stackoverflow.com/questions/4056093/what-are-the-disadvantages-of-using-a-key-value-table-over-nullable-columns-or) ([Archive](https://web.archive.org/web/20220329134817/https://stackoverflow.com/questions/4056093/what-are-the-disadvantages-of-using-a-key-value-table-over-nullable-columns-or))
+* [Redis architecture](http://qnimate.com/overview-of-redis-architecture/) ([Archive](https://web.archive.org/web/20220217075634/http://qnimate.com/overview-of-redis-architecture/))
+* [Memcached architecture](https://adayinthelifeof.nl/2011/02/06/memcache-internals/) ([Archive](https://web.archive.org/web/20220217064329/https://adayinthelifeof.nl/2011/02/06/memcache-internals/))
 
 #### Document store
 
@@ -1054,10 +1054,10 @@ Wide column stores offer high availability and high scalability.  They are often
 
 ##### Source(s) and further reading: wide column store
 
-* [SQL & NoSQL, a brief history](http://blog.grio.com/2015/11/sql-nosql-a-brief-history.html)
-* [Bigtable architecture](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf)
-* [HBase architecture](https://www.edureka.co/blog/hbase-architecture/)
-* [Cassandra architecture](http://docs.datastax.com/en/cassandra/3.0/cassandra/architecture/archIntro.html)
+* [SQL & NoSQL, a brief history](http://blog.grio.com/2015/11/sql-nosql-a-brief-history.html) ([Archive](https://web.archive.org/web/20220329135648/https://blog.grio.com/2015/11/sql-nosql-a-brief-history.html))
+* [Bigtable architecture](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf) ([Archive](https://web.archive.org/web/20211229085302/http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf))
+* [HBase architecture](https://www.edureka.co/blog/hbase-architecture/) ([Archive](https://web.archive.org/web/20220217034559/https://www.edureka.co/blog/hbase-architecture/))
+* [Cassandra architecture](http://docs.datastax.com/en/cassandra/3.0/cassandra/architecture/archIntro.html) ([Archive](https://web.archive.org/web/20220217095246/http://docs.datastax.com/en/archived/cassandra/3.0/cassandra/architecture/archIntro.html))
 
 #### Graph database
 
@@ -1081,11 +1081,11 @@ Graphs databases offer high performance for data models with complex relationshi
 
 #### Source(s) and further reading: NoSQL
 
-* [Explanation of base terminology](http://stackoverflow.com/questions/3342497/explanation-of-base-terminology)
-* [NoSQL databases a survey and decision guidance](https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.wskogqenq)
-* [Scalability](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
+* [Explanation of base terminology](http://stackoverflow.com/questions/3342497/explanation-of-base-terminology) ([Archive](https://web.archive.org/web/20220320110148/https://stackoverflow.com/questions/3342497/explanation-of-base-terminology))
+* [NoSQL databases a survey and decision guidance](https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.wskogqenq) ([Archive](https://web.archive.org/web/20220426111923/https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d?gi=41d5bd552749))
+* [Scalability](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database) ([Archive](https://web.archive.org/web/20220217072121/https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database))
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I)
-* [NoSQL patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+* [NoSQL patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html) ([Archive](https://web.archive.org/web/20220311053339/https://horicky.blogspot.com/2009/11/nosql-patterns.html))
 
 ### SQL or NoSQL
 
@@ -1127,7 +1127,7 @@ Sample data well-suited for NoSQL:
 ##### Source(s) and further reading: SQL or NoSQL
 
 * [Scaling up to your first 10 million users](https://www.youtube.com/watch?v=kKjm4ehYiMs)
-* [SQL vs NoSQL differences](https://www.sitepoint.com/sql-vs-nosql-differences/)
+* [SQL vs NoSQL differences](https://www.sitepoint.com/sql-vs-nosql-differences/) ([Archive](https://web.archive.org/web/20220329134930/https://www.sitepoint.com/sql-vs-nosql-differences/))
 
 ## Cache
 
@@ -1314,10 +1314,10 @@ Refresh-ahead can result in reduced latency vs read-through if the cache can acc
 ### Source(s) and further reading
 
 * [From cache to in-memory data grid](http://www.slideshare.net/tmatyashovsky/from-cache-to-in-memory-data-grid-introduction-to-hazelcast)
-* [Scalable system design patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
-* [Introduction to architecting systems for scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
+* [Scalable system design patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html) ([Archive](https://web.archive.org/web/20220418182616/http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html))
+* [Introduction to architecting systems for scale](http://lethain.com/introduction-to-architecting-systems-for-scale/) ([Archive](https://web.archive.org/web/20220417130737/https://lethain.com/introduction-to-architecting-systems-for-scale/))
 * [Scalability, availability, stability, patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
-* [Scalability](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+* [Scalability](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) ([Archive](https://web.archive.org/web/20220308125625/https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache))
 * [AWS ElastiCache strategies](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/Strategies.html)
 * [Wikipedia](https://en.wikipedia.org/wiki/Cache_(computing))
 
@@ -1363,7 +1363,7 @@ If queues start to grow significantly, the queue size can become larger than mem
 ### Source(s) and further reading
 
 * [It's all a numbers game](https://www.youtube.com/watch?v=1KRYH75wgy4)
-* [Applying back pressure when overloaded](http://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html)
+* [Applying back pressure when overloaded](http://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html) ([Archive](https://web.archive.org/web/20220217080247/https://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html))
 * [Little's law](https://en.wikipedia.org/wiki/Little%27s_law)
 * [What is the difference between a message queue and a task queue?](https://www.quora.com/What-is-the-difference-between-a-message-queue-and-a-task-queue-Why-would-a-task-queue-require-a-message-broker-like-RabbitMQ-Redis-Celery-or-IronMQ-to-function)
 
@@ -1445,9 +1445,9 @@ Use UDP over TCP when:
 
 #### Source(s) and further reading: TCP and UDP
 
-* [Networking for game programming](http://gafferongames.com/networking-for-game-programmers/udp-vs-tcp/)
+* [Networking for game programming](http://gafferongames.com/networking-for-game-programmers/udp-vs-tcp/) ([Archive](https://web.archive.org/web/20220306211306/https://gafferongames.com/post/udp_vs_tcp/))
 * [Key differences between TCP and UDP protocols](http://www.cyberciti.biz/faq/key-differences-between-tcp-and-udp-protocols/)
-* [Difference between TCP and UDP](http://stackoverflow.com/questions/5970383/difference-between-tcp-and-udp)
+* [Difference between TCP and UDP](http://stackoverflow.com/questions/5970383/difference-between-tcp-and-udp) ([Archive](https://web.archive.org/web/20220306182220/https://stackoverflow.com/questions/5970383/difference-between-tcp-and-udp))
 * [Transmission control protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 * [User datagram protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 * [Scaling memcache at Facebook](http://www.cs.bu.edu/~jappavoo/jappavoo.github.com/451/papers/memcache-fb.pdf)
@@ -1548,14 +1548,14 @@ REST is focused on exposing data.  It minimizes the coupling between client/serv
 
 #### Source(s) and further reading: REST and RPC
 
-* [Do you really know why you prefer REST over RPC](https://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
-* [When are RPC-ish approaches more appropriate than REST?](http://programmers.stackexchange.com/a/181186)
-* [REST vs JSON-RPC](http://stackoverflow.com/questions/15056878/rest-vs-json-rpc)
-* [Debunking the myths of RPC and REST](http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/)
+* [Do you really know why you prefer REST over RPC](https://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/) ([Archive](https://web.archive.org/web/20220421234302/https://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/))
+* [When are RPC-ish approaches more appropriate than REST?](http://programmers.stackexchange.com/a/181186) ([Archive](https://web.archive.org/web/20220217075821/https://softwareengineering.stackexchange.com/questions/181176/when-are-rpc-ish-approaches-more-appropriate-than-rest/181186#181186))
+* [REST vs JSON-RPC](http://stackoverflow.com/questions/15056878/rest-vs-json-rpc) ([Archive](https://web.archive.org/web/20220217074527/https://stackoverflow.com/questions/15056878/rest-vs-json-rpc))
+* [Debunking the myths of RPC and REST](http://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/) ([Archive](https://web.archive.org/web/20200414125406/https://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/))
 * [What are the drawbacks of using REST](https://www.quora.com/What-are-the-drawbacks-of-using-RESTful-APIs)
-* [Crack the system design interview](http://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview)
-* [Thrift](https://code.facebook.com/posts/1468950976659943/)
-* [Why REST for internal use and not RPC](http://arstechnica.com/civis/viewtopic.php?t=1190508)
+* [Crack the system design interview](http://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview) ([Archive](https://web.archive.org/web/20220417225439/https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview))
+* [Thrift](https://code.facebook.com/posts/1468950976659943/) ([Archive](https://web.archive.org/web/20220217062059/https://engineering.fb.com/2014/02/20/open-source/under-the-hood-building-and-open-sourcing-fbthrift/))
+* [Why REST for internal use and not RPC](http://arstechnica.com/civis/viewtopic.php?t=1190508) ([Archive](https://web.archive.org/web/20220422045909/https://arstechnica.com/civis/viewtopic.php?t=1190508))
 
 ## Security
 
@@ -1572,7 +1572,7 @@ Security is a broad topic.  Unless you have considerable experience, a security 
 
 * [API security checklist](https://github.com/shieldfy/API-Security-Checklist)
 * [Security guide for developers](https://github.com/FallibleInc/security-guide-for-developers)
-* [OWASP top ten](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
+* [OWASP top ten](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet) ([Archive](https://web.archive.org/web/20220217032209/https://owasp.org/www-project-top-ten/))
 
 ## Appendix
 
@@ -1640,10 +1640,10 @@ Handy metrics based on numbers above:
 
 #### Source(s) and further reading
 
-* [Latency numbers every programmer should know - 1](https://gist.github.com/jboner/2841832)
-* [Latency numbers every programmer should know - 2](https://gist.github.com/hellerbarde/2843375)
-* [Designs, lessons, and advice from building large distributed systems](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
-* [Software Engineering Advice from Building Large-Scale Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
+* [Latency numbers every programmer should know - 1](https://gist.github.com/jboner/2841832) ([Archive](https://web.archive.org/web/20220425132119/https://gist.github.com/jboner/2841832))
+* [Latency numbers every programmer should know - 2](https://gist.github.com/hellerbarde/2843375) ([Archive](https://web.archive.org/web/20220217053009/https://gist.github.com/hellerbarde/2843375))
+* [Designs, lessons, and advice from building large distributed systems](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf) ([Archive](https://web.archive.org/web/20220414234144/http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf))
+* [Software Engineering Advice from Building Large-Scale Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf) ([Archive](https://web.archive.org/web/20220308125559/https://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf))
 
 ### Additional system design interview questions
 
