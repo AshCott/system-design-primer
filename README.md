@@ -271,7 +271,7 @@ Discuss potential solutions and trade-offs.  Everything is a trade-off.  Address
 
 You might be asked to do some estimates by hand.  Refer to the [Appendix](#appendix) for the following resources:
 
-* [Use back of the envelope calculations](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html) | [Archive](https://web.archive.org/web/20220426050918/http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
+* [Use back of the envelope calculations](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html) ([Archive](https://web.archive.org/web/20220426050918/http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html))
 * [Powers of two table](#powers-of-two-table)
 * [Latency numbers every programmer should know](#latency-numbers-every-programmer-should-know)
 
@@ -279,9 +279,9 @@ You might be asked to do some estimates by hand.  Refer to the [Appendix](#appen
 
 Check out the following links to get a better idea of what to expect:
 
-* [How to ace a systems design interview](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/) | [Archive](https://web.archive.org/web/20210505130322/https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
-* [The system design interview](http://www.hiredintech.com/system-design) | [Archive](https://web.archive.org/web/20220417225144/https://www.hiredintech.com/system-design)
-* [Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70) | [Archive](https://web.archive.org/web/20220417235038/https://www.youtube.com/watch?v=ZgdS0EUmn70)
+* [How to ace a systems design interview](https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/) ([Archive](https://web.archive.org/web/20210505130322/https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/))
+* [The system design interview](http://www.hiredintech.com/system-design) ([Archive](https://web.archive.org/web/20220417225144/https://www.hiredintech.com/system-design))
+* [Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70) ([Archive](https://web.archive.org/web/20220417235038/https://www.youtube.com/watch?v=ZgdS0EUmn70))
 * [System design template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
 
 ## System design interview questions with solutions
@@ -389,13 +389,13 @@ First, you'll need a basic understanding of common principles, learning about wh
 
 ### Step 2: Review the scalability article
 
-[Scalability](http://www.lecloud.net/tagged/scalability/chrono) | [Archive](https://web.archive.org/web/20220217071827/http://www.lecloud.net/tagged/scalability/chrono)
+[Scalability](http://www.lecloud.net/tagged/scalability/chrono) ([Archive](https://web.archive.org/web/20220217071827/http://www.lecloud.net/tagged/scalability/chrono))
 
 * Topics covered:
-    * [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones) | [Archive](https://web.archive.org/web/20220331063644/https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
-    * [Databases](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database) | [Archive](https://web.archive.org/web/20220217072121/https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
-    * [Caches](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) | [Archive](https://web.archive.org/web/20220308125603/https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
-    * [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism) | [Archive](https://web.archive.org/web/20220217071927/https://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
+    * [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones) ([Archive](https://web.archive.org/web/20220331063644/https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones))
+    * [Databases](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database) ([Archive](https://web.archive.org/web/20220217072121/https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database))
+    * [Caches](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) ([Archive](https://web.archive.org/web/20220308125603/https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache))
+    * [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism) ([Archive](https://web.archive.org/web/20220217071927/https://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism))
 
 ### Next steps
 
@@ -420,7 +420,7 @@ Another way to look at performance vs scalability:
 
 ### Source(s) and further reading
 
-* [A word on scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html) | [Archive](https://web.archive.org/web/20220217073446/https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
+* [A word on scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html) ([Archive](https://web.archive.org/web/20220217073446/https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html))
 * [Scalability, availability, stability, patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
 
 ## Latency vs throughput
@@ -433,7 +433,7 @@ Generally, you should aim for **maximal throughput** with **acceptable latency**
 
 ### Source(s) and further reading
 
-* [Understanding latency vs throughput](https://community.cadence.com/cadence_blogs_8/b/sd/archive/2010/09/13/understanding-latency-vs-throughput) | [Archive](https://web.archive.org/web/20220417225608/https://community.cadence.com/cadence_blogs_8/b/sd/posts/understanding-latency-vs-throughput)
+* [Understanding latency vs throughput](https://community.cadence.com/cadence_blogs_8/b/sd/archive/2010/09/13/understanding-latency-vs-throughput) ([Archive](https://web.archive.org/web/20220417225608/https://community.cadence.com/cadence_blogs_8/b/sd/posts/understanding-latency-vs-throughput))
 
 ## Availability vs consistency
 
@@ -465,8 +465,8 @@ AP is a good choice if the business needs allow for [eventual consistency](#even
 
 ### Source(s) and further reading
 
-* [CAP theorem revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/) | [Archive](https://web.archive.org/web/20220423183232/https://robertgreiner.com/cap-theorem-revisited)
-* [A plain english introduction to CAP theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem) | [Archive](https://web.archive.org/web/20220421213746/http://ksat.me/a-plain-english-introduction-to-cap-theorem)
+* [CAP theorem revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/) ([Archive](https://web.archive.org/web/20220423183232/https://robertgreiner.com/cap-theorem-revisited))
+* [A plain english introduction to CAP theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem) ([Archive](https://web.archive.org/web/20220421213746/http://ksat.me/a-plain-english-introduction-to-cap-theorem))
 * [CAP FAQ](https://github.com/henryr/cap-faq)
 * [The CAP theorem](https://www.youtube.com/watch?v=k-Yaq8AHlFA)
 
